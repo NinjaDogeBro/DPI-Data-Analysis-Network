@@ -1,0 +1,11 @@
+Twitch Social Network Analysis Output
+Processing Twitch data...
+Degree Centrality Top 3 leaderboard:
+Person 5428: 0.4667
+Person 4406: 0.2000
+Person 3706: 0.1667
+Betweenness Centrality Top 3 leaderboard:
+Person 4406: 0.7080
+Person 5428: 0.6874
+Person 6644: 0.3310
+Graph drawn successfully.
