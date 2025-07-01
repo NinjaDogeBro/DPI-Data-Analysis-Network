@@ -115,5 +115,9 @@ plt.title("Degree Distribution")
 plt.savefig(f'multiverse/run_{timestamp}/twitch_sna_histogram_{timestamp}.png', dpi=300, bbox_inches='tight')
 plt.show()
 
+communities = nx.community.louvain_communities(filtered_graph)
+output_file.write("\nCommunities found in the graph:\n")
+for i, community in enumerate(communities):
+    output_file.write(f"Community {i + 1}: {', '.join(map(str, community))}\n")
 
 output_file.write("\nGraph drawn successfully.")

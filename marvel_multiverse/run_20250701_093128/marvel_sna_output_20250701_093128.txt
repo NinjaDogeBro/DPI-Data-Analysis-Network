@@ -1,0 +1,14 @@
+Marvel Social Network Analysis Output
+Processing Marvel data...
+
+Degree Centrality Top 3 leaderboard:
+#1 Person WONDER MAN/SIMON WIL: 0.2333
+#2 Person HERCULES [GREEK GOD]: 0.1667
+#3 Person TITANIA II/MARY SKEE: 0.1333
+
+Betweenness Centrality Top 3 leaderboard:
+#1 Person WONDER MAN/SIMON WIL: 0.6460
+#2 Person TITANIA II/MARY SKEE: 0.6322
+#3 Person RAM, SIR: 0.5218
+
+Graph drawn successfully.

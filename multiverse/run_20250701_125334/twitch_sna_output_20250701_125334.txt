@@ -1,0 +1,22 @@
+Twitch Social Network Analysis Output
+Processing Twitch data...
+
+Degree Centrality Top 3 leaderboard:
+#1 Person 1598: 0.3333
+#2 Person 6962: 0.2000
+#3 Person 2732: 0.1333
+
+Betweenness Centrality Top 3 leaderboard:
+#1 Person 1598: 0.8391
+#2 Person 6962: 0.4598
+#3 Person 2826: 0.4345
+
+Communities found in the graph:
+Community 1: 6962, 4500, 1782, 5773, 3880, 2826, 6141
+Community 2: 986, 3412, 6191
+Community 3: 2594, 2955, 2860, 1328, 2577, 5207, 5532, 1598
+Community 4: 3691, 5315, 6118
+Community 5: 4016, 2534, 2600, 3750
+Community 6: 1472, 1089, 2824, 2992, 2888, 2732
+
+Graph drawn successfully.

@@ -1,0 +1,14 @@
+Marvel Social Network Analysis Output
+Processing Marvel data...
+
+Degree Centrality Top 3 leaderboard:
+#1 Person MOONSTONE II/KARLA S: 0.3000
+#2 Person HUMAN TORCH ANDROID/: 0.2667
+#3 Person ANACONDA/BLANCHE SIT: 0.2000
+
+Betweenness Centrality Top 3 leaderboard:
+#1 Person MOONSTONE II/KARLA S: 0.7839
+#2 Person ANACONDA/BLANCHE SIT: 0.5379
+#3 Person HUMAN TORCH ANDROID/: 0.4667
+
+Graph drawn successfully.
